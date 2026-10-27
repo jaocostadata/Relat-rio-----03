@@ -1,5 +1,5 @@
 # Relatorio-----03
-Atividade da disciplina Princípios de Programação I, do curso de Ciência de Dados para Negócios da Universidade Federal da Paraíba (UFPB/CCSA), período 2026.2.
+Atividade da discipliina Princípios de Programação I, do curso de Ciência de Dados para Negócios da Universidade Federal da Paraíba (UFPB/CCSA), período 2026.2.
 Identificação
 Campo	Informação
 Aluno	João Victor Novais de Araújo Costa
